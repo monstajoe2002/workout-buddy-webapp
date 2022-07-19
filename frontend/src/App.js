@@ -5,7 +5,6 @@ import Home from './pages/Home'
 import Navbar from './components/Navbar'
 
 function App() {
-
   return (
     <div className="App">
       <BrowserRouter>
@@ -13,8 +12,8 @@ function App() {
         <div className="pages">
           <Routes>
             <Route 
-              path="/" 
-              element={<Home />} 
+              path="/"
+              element={<Home />}
             />
           </Routes>
         </div>
@@ -24,4 +23,3 @@ function App() {
 }
 
 export default App;
-

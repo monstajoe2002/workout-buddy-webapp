@@ -31,34 +31,31 @@ header a {
   padding: 20px;
   margin: 0 auto;
 }
+
 /* homepage */
 .home {
   display: grid;
   grid-template-columns: 3fr 1fr;
   gap: 100px;
 }
-
 .workout-details {
   background: #fff;
   border-radius: 4px;
   margin: 20px auto;
   padding: 20px;
   position: relative;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
 }
-
 .workout-details h4 {
   margin: 0 0 10px 0;
   font-size: 1.2em;
   color: var(--primary);
 }
-
 .workout-details p {
   margin: 0;
   font-size: 0.9em;
   color: #555;
 }
-
 .workout-details span {
   position: absolute;
   top: 20px;
@@ -69,12 +66,11 @@ header a {
   border-radius: 50%;
   color: #333;
 }
+
 /* new workout form */
-label,
-input {
+label, input {
   display: block;
 }
-
 input {
   padding: 10px;
   margin-top: 10px;
@@ -84,7 +80,6 @@ input {
   border-radius: 4px;
   box-sizing: border-box;
 }
-
 form button {
   background: var(--primary);
   border: 0;
@@ -94,7 +89,6 @@ form button {
   border-radius: 4px;
   cursor: pointer;
 }
-
 div.error {
   padding: 10px;
   background: #ffefef;
