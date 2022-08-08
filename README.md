@@ -14,4 +14,4 @@ A simple web app that tracks your exercises along with its respective load and n
 ## Upcoming features
 ### User Authentication
 Users will soon be able to log in to the application with and email and password to store their workouts privately
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=monstajoe2002&icon=true&theme=aloglia)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=monstajoe2002&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
