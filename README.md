@@ -1,4 +1,3 @@
-﻿
 # Workout Buddy
 A simple web app that tracks your exercises along with its load and number of repetitions (reps)
 
@@ -12,8 +11,6 @@ A simple web app that tracks your exercises along with its load and number of re
 	 - Bcrypt (for encryption)
 	 - Validator (to validate email and password on registration)
 	 - Mongoose (interacting with the database stored in MongoDB)
-	 - JWT (for authentication)
-	 - date-fns (for date formatting)
-## What's new
-User can register and login to the app in order to track their exercises.
-
+## Upcoming features
+### User Authentication
+Users will soon be able to log in to the application with and email and password to store their workouts privately
